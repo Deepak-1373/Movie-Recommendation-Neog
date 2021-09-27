@@ -80,7 +80,7 @@ export default function App() {
       </div>
       <a
         className="source"
-        href="https://github.com/DeeshanSharma/Movie-Recommendation-React.js"
+        href="https://github.com/Deepak-1373/Movie-Recommendation-Neog"
         target="_blank"
         rel="noopener noreferrer"
       >
